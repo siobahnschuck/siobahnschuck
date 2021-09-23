@@ -1,26 +1,15 @@
-<img src="https://i.ibb.co/xqMtSkX/Software-Engineer.png" alt="Software-Engineer" border="0">
 
-## Hello! I'm Siobahn a Developer and Video Artist based in Chicago
-
-✨ My pronouns are she/hers 
-
-✨ I recently finished a General Assembly Software Engineering Immersive course 🎉
-
-✨ I am currently learning Three.js, Next.js, and TypeScript
-
-✨ Always available to talk about video art, tech, and the history of the net 💾
-
-✨ Fun Fact: I grew up on a commune in the Nevada desert 🌵
+## Heya~ I'm Siobahn a Developer and Video Artist based in Chicago
+I love to talk about video art, tech, and the history of the net / media archeology 💾 
 
 
-# CURRENT PROJECT 
+# PAST PROJECTS 
 ### Curate, a digital art gallery created by it's users creating drawings
 <a href="https://curate-co.netlify.app/">
 <img src="https://i.ibb.co/dmLvyc7/Screen-Shot-2021-04-19-at-9-24-10-AM.png" alt="Screen-Shot-2021-04-19-at-9-24-10-AM" border="0"></a>
 
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
-# PAST PROJECTS 
 ### Ding! A way for users to share recipes and generate meal ideas for ingredients on hand 
 <a href="https://glacial-meadow-53009.herokuapp.com/"> 
 <img src="https://i.ibb.co/CHb3TX5/Screen-Shot-2021-03-26-at-2-30-11-PM.png" alt="Screen-Shot-2021-03-26-at-2-30-11-PM" border="0">

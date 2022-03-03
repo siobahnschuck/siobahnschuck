@@ -1,5 +1,5 @@
 
-## Heya~ I'm Siobahn a Developer and Video Artist based in Chicago
+## Heya~ I'm Siobahn a Developer and Video Artist based in Los Angeles
 I love to talk about video art, tech, and the history of the net / media archeology 💾 
 
 

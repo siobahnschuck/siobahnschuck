@@ -3,7 +3,7 @@
 I love to talk about video art, tech, and the history of the net / media archeology 💾 
 
 
-# PAST PROJECTS 
+# PAST PERSONAL PROJECTS 
 ### Curate, a digital art gallery created by it's users creating drawings
 <a href="https://curate-co.netlify.app/">
 <img src="https://i.ibb.co/dmLvyc7/Screen-Shot-2021-04-19-at-9-24-10-AM.png" alt="Screen-Shot-2021-04-19-at-9-24-10-AM" border="0"></a>

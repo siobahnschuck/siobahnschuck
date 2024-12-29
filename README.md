@@ -1,6 +1,6 @@
 
-## Heya~ I'm Siobahn a Developer and Video Artist based in Los Angeles
-I love to talk about video art, tech, and the history of the net and media archeology 💾 
+## Heya~ I'm Siobahn a Developer and Video Artist based in Portland, OR
+I love to talk about video art, tech, and the history of the net and media archeology 💾 In my free time I volunteer at [TAPE](https://tapeanalog.org/) an analog media preservation non-profit in Los Angeles, CA and read books 📚
 
 
 # TOOLKIT 
